@@ -1,1 +1,1 @@
-# project_template_Stellar-Stage-1-main
+# project_template_Stellar-main
